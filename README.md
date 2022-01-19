@@ -1,14 +1,16 @@
 **Hi, I'm Ivan** 👋
 
-I'm a Data Analyst from Russia living in Saint Petersburg. Over 4 years of experience in advertising and analytics.
+Data Analyst from Moscow, Russia (now living in Saint Petersburg, Russia).
+I have 4+ years of experience in analytics and advertising.
 
 **Tech Stack:**
 
 * Google Cloud Platform
-* dbt + SQL (BigQuery, PostgreSQL, ClickHouse)
-* Python (Pandas, Numpy, Plotly), R
-* Marketing Analytics (Google Analytics 360, GA4)
-* Product Analytics (Mixpanel, Amplitude)
-* Mobile Analytics (Firebase, AppsFlyer, AppMetrica)
-* Data Visualization (Data Studio, Power BI, Tableau)
-* Google Tag Manager (HTML, JavaScript, jQuery)
+* dbt + SQL (BigQuery, PostgreSQL)
+* Python (pandas, numpy, plotly, pystan)
+* R
+* Marketing Analytics: Google Analytics 360, Google Analytics 4
+* Product Analytics: Mixpanel, Amplitude
+* Mobile Analytics: Firebase, AppsFlyer, AppMetrica
+* Data Visualization: Data Studio, Power BI, Tableau
+* Google Tag Manager: HTML, JavaScript
