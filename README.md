@@ -1,6 +1,8 @@
-**Hi, I'm Ivan** 👋
+**Hi** 👋
 
-Data Analyst with 4+ years of experience in analytics and advertising.
+I'm a Data Analyst with 4+ years of experience in analytics and advertising. I’ve played roles as a Data Analyst, Web Analyst, Analytics Engineer, and Product Analyst. Working with clients in ecommerce, SaaS, and fintech; implementing modern data tech stacks; helping with product analytics and UX.
+
+In spare time write articles on [Medium](medium.com/@ivan_toriya), study Bayesian modeling and statistics.
 
 **Tech Stack:**
 
