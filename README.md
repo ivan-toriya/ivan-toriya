@@ -1,8 +1,8 @@
 **Hi** 👋
 
-I'm a Data Analyst with 5+ years of experience in analytics and advertising. I’ve played roles as a Data Analyst, Web Analyst, Data Engineer, Analytics Engineer, and Product Analyst. Working with clients in ecommerce, SaaS, and fintech; implementing modern data tech stacks.
+Currently working as Analytics Engineer at Precis Digital [@ivan-toriya-precis](https://github.com/ivan-toriya-precis)
 
-Sometimes write articles on [Medium](https://medium.com/@ivan_toriya), still study Bayesian modeling and statistics.
+I have 5+ years of experience in analytics and digital advertising. Worked as a Data Analyst, Web Analyst, Data Engineer, Analytics Engineer, and Product Analyst with clients in e-commerce, SaaS, fintech.
 
 **Tech Stack:**
 
