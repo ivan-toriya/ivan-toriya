@@ -1,6 +1,6 @@
 **Hi** 👋
 
-Currently working as Analytics Engineer at Precis Digital [@ivan-toriya-precis](https://github.com/ivan-toriya-precis)
+Currently working with data at Precis Digital [@ivan-toriya-precis](https://github.com/ivan-toriya-precis)
 
 I have 5+ years of experience in analytics and digital advertising. Worked as a Data Analyst, Web Analyst, Data Engineer, Analytics Engineer, and Product Analyst with clients in e-commerce, SaaS, fintech.
 
